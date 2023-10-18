@@ -1,0 +1,20 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Learning all things here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Mayur Koshti",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
