@@ -1,0 +1,14 @@
+To start Node js I'd recommend these topics
+
+Basic javascript ( array, map, reduce, ffilter string operations..... more)
+ECMAscript
+Understanding Callback
+Asynchronous programming
+Non blocking I/O
+Event driven Programming
+Promise
+Async/await
+SQL and/or NoSQL basic concepts and Nodejs stuffs for DB
+API concepts (http verbs/methods, API design, http status)
+REST APIs
+Basic server/DevOps concepts etc….
