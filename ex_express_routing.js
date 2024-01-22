@@ -11,9 +11,9 @@ app.get('/about', (req, res) => {
 })
 
 app.get('/user', (req, res) => {
-    console.log(req.query);
-    res.send(`<h1>Welcome  ${req.query.name} </h1>
-    <input type="text" value="${req.query.name}">
+    console.log(req.headers.host);
+    res.send(`<h1>Welcome  ${req.query.id} . </h1>
+    <input type="text" value="${req.query.id}">
     `);
 })  
 
